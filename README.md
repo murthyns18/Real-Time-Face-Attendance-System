@@ -87,3 +87,35 @@ time_table
 Open Miniconda or your terminal.
 Navigate to your project directory and run
 python gui.py
+
+**Screenshots**
+
+**1 : Home Page**
+![image alt]()
+
+**2 : Filling Attendance Page**
+![image alt]()
+
+**3 : Home Page**
+![image alt]()
+
+**4 : Admin Page**
+![image alt]()
+
+**5 : Admin Login Page**
+![image alt]()
+
+**6 : Student Registration Page**
+![image alt]()
+
+**7 : Attendance Details Page**
+![image alt]()
+
+**8 : Individual Details Page**
+![image alt]()
+
+
+**9 : Class Time Table Page**
+![image alt]()
+
+
