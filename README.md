@@ -91,7 +91,7 @@ python gui.py
 **Screenshots**
 
 **1 : Home Page**
-![image alt]()
+![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/df445b3ea032939af591e75641cad5f46a86648b/Home.png)
 
 **2 : Filling Attendance Page**
 ![image alt]()
