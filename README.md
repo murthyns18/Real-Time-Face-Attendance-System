@@ -100,10 +100,10 @@ python gui.py
 ![image alt]()
 
 **4 : Admin Page**
-![image alt]()
+![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/07f15047cf7425cd2757fd0b4324a5c387993bd9/Admin%20Prtal.png)
 
 **5 : Admin Login Page**
-![image alt]()
+![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/07f15047cf7425cd2757fd0b4324a5c387993bd9/Admin%20Login.png)
 
 **6 : Student Registration Page**
 ![image alt]()
