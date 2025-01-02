@@ -29,34 +29,51 @@ Students can view their class timetable in the system.
 
 **Hardware Requirements**
 
-Processor: Core i3 / i5
-Hard Disk: 1TB
-RAM: 8 GB
+1 : Processor: Core i3 / i5
+2 : Hard Disk: 1TB
+3 : RAM: 8 GB
 
 
 **Software Requirements**
 
-Operating System: Windows 8 or higher
-Programming Language: Python
-Frontend: Python Tkinter
-Framework: Anaconda/Miniconda
-Database: MongoDB
-IDE: VS Code
-Libraries: OpenCV, NumPy, Tkinter, Dlib, Pymongo, PIL
+1 : Operating System: Windows 8 or higher
+
+2 : Programming Language: Python
+
+3 : Frontend: Python Tkinter
+
+4 : Framework: Anaconda/Miniconda
+
+5 : Database: MongoDB
+
+6 : IDE: VS Code
+
+7 : Libraries: OpenCV, NumPy, Tkinter, Dlib, Pymongo, PIL
 
 
 **Tools and Technologies Used**
 
-Python
-OpenCV (Computer Vision)
-NumPy (Numerical Computing)
-Tkinter (GUI)
-Dlib (Face Detection)
-Pymongo (MongoDB Connection)
-PIL (Image Processing)
-Algorithms Used:
-HOG (Histogram of Oriented Gradients)
-CNN (Convolutional Neural Networks)
+1 : Python
+
+2 : OpenCV (Computer Vision)
+
+3 : NumPy (Numerical Computing)
+
+4 : Tkinter (GUI)
+
+5 : Dlib (Face Detection)
+
+6 : Pymongo (MongoDB Connection)
+
+7 : PIL (Image Processing)
+
+
+**Algorithms Used**
+
+1 : HOG (Histogram of Oriented Gradients)
+
+2 : CNN (Convolutional Neural Networks)
+
 
 
 **Update fill.py File**
