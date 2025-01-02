@@ -91,46 +91,56 @@ python gui.py
 **Screenshots**
 
 **1 : Home Page**
+
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/df445b3ea032939af591e75641cad5f46a86648b/Home.png)
 
 
 
 **2 : Filling Attendance Page**
+
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/d34a6ee74308327f412621debf6e34e44c961bce/Filling%20Attendance.png)
 
 
 
 **3 : Attendace Filled Page**
-![image alt]()
+
+![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/c0098c12b2cb938fc6fa31bc192455b71df8c1ee/Attendance%20Filled.png)
 
 
 
 **4 : Admin Page**
+
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/07f15047cf7425cd2757fd0b4324a5c387993bd9/Admin%20Prtal.png)
 
 
 
 **5 : Admin Login Page**
+
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/07f15047cf7425cd2757fd0b4324a5c387993bd9/Admin%20Login.png)
 
 
 
 **6 : Student Registration Page**
+
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/c0098c12b2cb938fc6fa31bc192455b71df8c1ee/Student%20Registration.png)
 
 
 
 **7 : Attendance Details Page**
-![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/c0098c12b2cb938fc6fa31bc192455b71df8c1ee/Attendance%20Filled.png)
+
+![image alt]()
+
 
 
 
 **8 : Individual Details Page**
-![image alt]()
+
+![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/1f65fa7d96d93bdbfef2afb1de24b3726a50dcef/Search%20By%20Individual.png)
 
 
 
 **9 : Class Time Table Page**
-![image alt]()
+
+![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/1f65fa7d96d93bdbfef2afb1de24b3726a50dcef/Class%20Time%20Table.png)
 
 
