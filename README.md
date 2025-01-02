@@ -96,9 +96,11 @@ python gui.py
 
 
 
+
 **2 : Filling Attendance Page**
 
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/d34a6ee74308327f412621debf6e34e44c961bce/Filling%20Attendance.png)
+
 
 
 
@@ -108,15 +110,18 @@ python gui.py
 
 
 
+
 **4 : Admin Page**
 
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/07f15047cf7425cd2757fd0b4324a5c387993bd9/Admin%20Prtal.png)
 
 
 
+
 **5 : Admin Login Page**
 
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/07f15047cf7425cd2757fd0b4324a5c387993bd9/Admin%20Login.png)
+
 
 
 
@@ -128,7 +133,7 @@ python gui.py
 
 **7 : Attendance Details Page**
 
-![image alt]()
+![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/d13726a5ccc5b48e4750b88837f1354b04ade532/Attendance%20Details.png)
 
 
 
@@ -136,6 +141,7 @@ python gui.py
 **8 : Individual Details Page**
 
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/1f65fa7d96d93bdbfef2afb1de24b3726a50dcef/Search%20By%20Individual.png)
+
 
 
 
