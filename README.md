@@ -94,9 +94,9 @@ python gui.py
 ![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/df445b3ea032939af591e75641cad5f46a86648b/Home.png)
 
 **2 : Filling Attendance Page**
-![image alt]()
+![image alt](https://github.com/murthyns18/Real-Time-Face-Attendance-System/blob/d34a6ee74308327f412621debf6e34e44c961bce/Filling%20Attendance.png)
 
-**3 : Home Page**
+**3 : Attendace Filled Page**
 ![image alt]()
 
 **4 : Admin Page**
@@ -113,7 +113,6 @@ python gui.py
 
 **8 : Individual Details Page**
 ![image alt]()
-
 
 **9 : Class Time Table Page**
 ![image alt]()
